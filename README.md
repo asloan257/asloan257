@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen Sloan
-- 👀 I’m interested in Codining
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on a project for FSE 100
 - 📫 How to reach me through email: @allensloan257@gmail.com
